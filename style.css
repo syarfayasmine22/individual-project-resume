@@ -1,0 +1,135 @@
+body
+{
+  background-color: whitesmoke;
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+
+.navigation
+{
+  background-color: #6497b1;
+  padding: 15px;
+  box-shadow: 0 0 3px; color: black;
+}
+
+
+.navigation li 
+{
+  display: inline;
+  padding-left: 30px;
+}
+
+.navigation li a 
+{
+  color: black;
+  font-family: sans-serif;
+  text-decoration: none;
+  padding: 10px;
+  margin-bottom: 10px;
+}
+
+.navigation li img 
+{
+  width: 50px
+  float: left;
+  margin-top: -20px;
+}
+
+div
+{
+  padding-left: 5%;
+  padding-right: 5%;
+}
+
+.navigation li a:hover
+{
+  color: burlywood;
+  text-decoration: none;
+  padding: 10px;
+}
+
+.title h1 {
+font-size: 40px;
+}
+
+.title p {
+font-size: 30px;
+font-family: monospace;
+}
+
+.text1 {
+  font-size: 30px;
+  font-family: monospace;
+  colour:black;
+  text-align: center;
+}
+.contact1 {
+font-size: 30px;
+  font-family: monospace;
+  colour:black;
+  text-align: center;
+}
+.experience1 {
+  font-size:25px;
+  font-family: monospace;
+  text-align: center;
+  color:darkblue;
+}
+
+.experience2 h1{
+  font-size:45px;
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.experience2 {
+  font-size:25px;
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.experience3 {
+  font-size:25px;
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.experience4 {
+  font-size:25px;
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.family p {
+  font-size:25px;
+  font-family:cursive;
+  text-align: center;
+  background-color: whitesmoke;
+}
+
+.family h1 {
+  font-size:40px;
+  font-family: monospace;
+  text-align: center;
+  background-color: whitesmoke;
+}
+
+.gallery p {
+  font-size:25px;
+  font-family:cursive;
+  text-align: center;
+  background-color:whitesmoke;
+}
+
+.gallery h1 {
+  font-size:40px;
+  font-family: monospace;
+  text-align: center;
+  background-color: whitesmoke;
+}
+
+.gallery1 {
+  align-items:center;
+}
